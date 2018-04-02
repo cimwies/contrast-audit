@@ -47,7 +47,7 @@ h6, .h6 {
   display: inline-block;
   padding: 10px;
   font-weight: 500;
-  color: #cdddeb;
+  color: #004772;
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
@@ -90,7 +90,7 @@ h6, .h6 {
 }
 .blog-description {
   font-size: 20px;
-  color: #999;
+  color: #595959;
 }
 
 
